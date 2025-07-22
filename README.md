@@ -1,8 +1,4 @@
-<img align="left" height="150" src="https://i.pinimg.com/originals/28/b6/3a/28b63a9c1994470b8aad4531578b9e68.gif"  />
-
-###
-
-<h1 align="left">Oie :)<br>Eu sou o Igor.</h1>
+<h1 align="center">Oie :)<br>Eu sou o Igor.</h1>
 
 ###
 
@@ -16,7 +12,7 @@
 
 ###
 
-<p align="left">🎮 Desenvolvimento de jogos 2D e 3D usando Unity e C#  <br>🖥️ Desktop, WebGL e Mobile  <br>📖 Estudando atualmente Shaders e Computação Gráfica com C++  <br>🌐 Confira meus jogos no [itch.io](https://igorflores.itch.io/)  <br>🔐 Atualmente trabalhando no [We Got Hacked](https://github.com/AtomicRocketEntertainment/We-Got-Hacked)</p>
+<p align="left">🎮 Desenvolvimento de jogos 2D e 3D usando Unity e C#  <br>🖥️ Desktop, WebGL e Mobile  <br>📖 Estudando atualmente Shaders e Computação Gráfica com C++  <br>🌐 Confira meus jogos no itch.io: (https://igorflores.itch.io/)  <br>🔐 Atualmente trabalhando no We Got Hacked: (https://github.com/AtomicRocketEntertainment/We-Got-Hacked)</p>
 
 ###
 
