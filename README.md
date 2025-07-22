@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">🧙‍♂️ Game Developer | Unity<br><br>Desenvolvedor de jogos com experiência em Unity e C#. Trabalho desenvolvendo sistemas de gerenciamento, elementos de gameplay e implementação de assets tanto 3D quanto 2D para os jogos em que contribuo.</p>
+<p align="center">🧙‍♂️ Game Developer | Unity<br><br> Sou desenvolvedor de jogos com experiência em Unity e C#. Trabalho desenvolvendo sistemas de gerenciamento, elementos de gameplay e implementação de assets tanto 3D quanto 2D para os jogos em que contribuo.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎮 Desenvolvimento de jogos 2D e 3D usando Unity e C#  <br>🖥️ Desktop, WebGL e Mobile  <br>📖 Estudando atualmente Shaders e Computação Gráfica com C++  <br>🌐 Confira meus jogos no itch.io: (https://igorflores.itch.io/)  <br>🔐 Atualmente trabalhando no We Got Hacked: (https://github.com/AtomicRocketEntertainment/We-Got-Hacked)</p>
+<p align="left">🎮 Desenvolvimento de jogos 2D e 3D usando Unity e C#  <br>🖥️ Desktop, WebGL e Mobile  <br>📖 Estudando atualmente Shaders e Computação Gráfica com C++  <br>🌐 Você acha meus jogos aqui: (https://igorflores.itch.io/)  <br>🔐 Atualmente eu to desenvolvendo o We Got Hacked: (https://github.com/AtomicRocketEntertainment/We-Got-Hacked)</p>
 
 ###
 
