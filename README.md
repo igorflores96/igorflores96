@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">🧙‍♂️ Game Developer | Unity<br><br> Sou desenvolvedor de jogos com experiência em Unity e C#. Trabalho desenvolvendo sistemas de gerenciamento, elementos de gameplay e implementação de assets tanto 3D quanto 2D para os jogos em que contribuo.</p>
+<p align="center">🧙‍♂️ Game Developer | Unity | C++ <br><br> Sou desenvolvedor de jogos com experiência em Unity e C#. Trabalho desenvolvendo sistemas de gerenciamento, elementos de gameplay e implementação de assets tanto 3D quanto 2D para os jogos em que contribuo.</p>
 
 ###
 
