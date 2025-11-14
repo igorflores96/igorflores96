@@ -12,7 +12,12 @@
 
 ###
 
-<p align="left">🎮 Desenvolvo jogos 2D e 3D usando Unity e C#  <br>🖥️ Plataformas Desktop, WebGL e Mobile  <br>📖 Atualmente eu to estudando sobre Shaders e Computação Gráfica com C++  <br>🌐 Você acha meus jogos aqui: https://igorflores.itch.io/  <br>🔐 Também to desenvolvendo o We Got Hacked: https://github.com/AtomicRocketEntertainment/We-Got-Hacked</p>
+<p align="left">🎮 Desenvolvo jogos 2D e 3D usando Unity e C#  
+  <br>🖥️ Plataformas Desktop, WebGL e Mobile  
+  <br>📖 Atualmente eu to estudando sobre Shaders e Computação Gráfica com C++  
+  <br>🌐 Você acha meus jogos aqui: https://igorflores.itch.io/ 
+  <br>🌐 E aqui você consegue ver meu portfólio com informações mais aprofundadas: https://bit.ly/igorNotionsPortfolio
+  <br>🔐 Também to desenvolvendo o We Got Hacked: https://github.com/AtomicRocketEntertainment/We-Got-Hacked</p>
 
 ###
 
